@@ -7,3 +7,6 @@ End Summary:
 I learned how to use processing with its documentation and other tutorials
 I practiced good commenting and realized how easy and powerful it is
 I also learned to read and edited someones else's code to fit closer with my coding style
+
+Demo:
+https://user-images.githubusercontent.com/81827619/126921203-6bbda4e3-e636-4bd8-93d8-b68479ec5742.mp4
